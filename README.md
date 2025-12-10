@@ -1,7 +1,6 @@
 # Detection-of-pneumonia-using-neural-networks
-Pneumonia detection from Chest X-Rays using a custom ResNet architecture in PyTorch. Accuracy: 83%.
+🫁 Pneumonia detection from Chest X-Rays using a custom ResNet architecture in PyTorch. Accuracy: 83%.
 
-🫁 Pneumonia Detection
 This project, completed as part of a course assignment, aims to classify chest X-ray images into two categories: NORMAL (healthy) and PNEUMONIA (pneumonia). It is based on a custom ResNet architecture, implemented from scratch and adapted to the specific characteristics of medical imaging data. The project also examines the issue of overfitting and uses a checkpointing mechanism to save the best-performing version of the model.
 
 Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)  from Kaggle.
