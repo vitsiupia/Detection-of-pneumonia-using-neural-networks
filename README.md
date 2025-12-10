@@ -6,11 +6,11 @@ This project, completed as part of a course assignment, aims to classify chest X
 Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)  from Kaggle.
 
 Technologies:
-Python 3
-PyTorch (model building and training)
-Torchvision (image transformations)
-Matplotlib / Seaborn (result visualization)
-Google Colab (GPU-enabled environment)
+- Python 3
+- PyTorch (model building and training)
+- Torchvision (image transformations)
+- Matplotlib / Seaborn (result visualization)
+- Google Colab (GPU-enabled environment)
 
 Model Architecture
 A custom implementation of a ResNet-like network was used, featuring a key modification:
